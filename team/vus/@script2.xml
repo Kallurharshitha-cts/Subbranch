@@ -12,7 +12,7 @@
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements repeated until the Virtual User stops.</description>
         <weighted-embedded-action uid="4c087c97-8252-4e8f-ab3f-e8259270ed64"/>
-        <weighted-embedded-action uid="72d9d3cf-0478-4fec-828e-9157eeeadf4c"/>
+        <weighted-embedded-action uid="37863d14-daca-41d9-b15c-8516119086ad"/>
         <weighted-embedded-action uid="4c341bd6-2702-4aa6-80f4-7a3e39cabf33"/>
     </actions-container>
     <end-container element-number="1" execution-type="0" pacingEnd="0"
