@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=dummy
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.0.2
+project.is-open-test-settings-after-upload=false
+project.id=000df8cb-84ba-47ac-a5dd-fdf45c562cc4
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/Kallurharshitha-cts/Subbranch.git
